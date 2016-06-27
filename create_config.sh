@@ -3,9 +3,9 @@
 cat > "config.js" << EOF
 /* SPHERE.IO credentials */
 exports.config = {
-  client_id: "${SPHERE_CLIENT_ID}",
-  client_secret: "${SPHERE_CLIENT_SECRET}",
-  project_key: "${SPHERE_PROJECT_KEY}"
+  client_id: "8tekUxcUj4DiGWjsb34aBZpi",
+  client_secret: "DXSzclBEnqmP2scBpzvn5JAcW7Rq8PFn",
+  project_key: "manage_project:testshop-68"
 }
 EOF
 
